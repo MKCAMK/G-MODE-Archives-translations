@@ -1,1 +1,1 @@
-# G-MODE-Archives-translations
+# G-MODE Archives translations
