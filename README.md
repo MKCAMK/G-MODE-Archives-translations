@@ -1,13 +1,13 @@
 # <a href="https://gmodecorp.com/gmodearchives/"><img src="https://gmodecorp.com/static/gmodearchives/img/logo_GMODEArchives2.png" alt="G-MODE Archives(+)" width="25%"></a> Translations
-This is a repository of **translation** patches for the mobile port series that released on **Steam** and **Nintendo Switch** by <a href="https://en.wikipedia.org/wiki/G-Mode/"><img src="https://gmodecorp.com/static/common/img/corporate/h1.png" alt="G-MODE" width="10%"></a>.
-As of now, it is strictly for **Steam** release of these games.
+This is a repository of **translation** patches for the series of ports of mobile games that has been released on **Steam** and **Nintendo Switch** by <a href="https://en.wikipedia.org/wiki/G-Mode/"><img src="https://gmodecorp.com/static/common/img/corporate/h1.png" alt="G-MODE" width="10%"></a>.
+As of now, the patches are only for the **Steam** versions of these games.
 
 ### Download and Installation
-You can check the *patch download link* and *Steam store page link* on each game's section.
+A *link to the patch* and to *Steam store page* is provided for each game.
 
-**Click the game's Steam store image besides game title** to get directed into its Steam store page.
+The **Steam store image** beside a game's title links to the respective Steam store page.
 
-Installation instruction is already inside patch's archive so you can just download it to check.
+Patching instructions are provided inside the **patch's archive file**.
 
 ---
 
