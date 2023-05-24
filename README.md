@@ -15,7 +15,7 @@ Patching instructions are provided inside the **patch's archive file**.
 
 <img src="./promo/1751100_1.png" alt="Menu has been translated" width="50%"/><img src="./promo/1751100_2.png" alt="In-game instructions has also been translated" width="50%"/>
 ### Download
-- **English Patch**: [Version 1.3](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/225fd6c22ded7c35f6805a0a92670647ada968df/patches/DoDonPachi%20Dai-Ou-Jou%20DX/English/Steam/DoDonPachiDaiOuJouDX_english_patch.1.3.zip)
+- **English Patch**: [Version 1.3.1](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/225fd6c22ded7c35f6805a0a92670647ada968df/patches/DoDonPachi%20Dai-Ou-Jou%20DX/English/Steam/DoDonPachiDaiOuJouDX_english_patch.1.3.1.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Patching instructions are provided inside the **patch's archive file**.
 
 <img src="./promo/1815030_1.png" alt="Menu has been translated" width="50%"/><img src="./promo/1815030_2.png" alt="Translated all of possible text images including this" width="50%"/>
 ### Download
-- **English Patch**: [Version 1.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/225fd6c22ded7c35f6805a0a92670647ada968df/patches/Deadly%20Danmaku%20Trial%20-%20DoDonPachi%20Dai-Ou-Jou%20Edition/English/Steam/DDT_DoDonPachiDaiOuJou_english_patch.1.0.zip)
+- **English Patch**: [Version 1.0.1](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/225fd6c22ded7c35f6805a0a92670647ada968df/patches/Deadly%20Danmaku%20Trial%20-%20DoDonPachi%20Dai-Ou-Jou%20Edition/English/Steam/DDT_DoDonPachiDaiOuJou_english_patch.1.0.1.zip)
 
 ---
 
