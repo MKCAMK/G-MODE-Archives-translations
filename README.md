@@ -21,7 +21,7 @@ The **Steam store image** beside a game's title links to the respective Steam st
 The credits list for this patch is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here.**</a>
 
 ### PSP Translation Differences
-While this translation follows the official English localization of *Shin Megami Tensei: Persona* for PlayStation Portable, some deliberate changes have been made. A document listing the differences is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here.**</a>
+While this translation follows the official English localization of *Shin Megami Tensei: Persona* for PlayStation Portable, some deliberate changes have been made. A document listing the differences is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/PSP_translation_differences.txt">**here.**</a>
 
 ---
 
