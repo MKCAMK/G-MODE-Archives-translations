@@ -11,6 +11,42 @@ Patching instructions are provided inside the **patch's archive file**.
 
 ---
 
+## <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona - Anomalous Tower Chronicle" width="25%"/></a> 女神異聞録ペルソナ 異空の塔編 (Persona - Anomalous Tower Chronicle)
+
+<img src="./promo/2541170_1.png" alt="In-game graphics have been translated" width="50%"/><img src="./promo/2541170_2.png" alt="Story dialogues have been translated too" width="50%"/>
+### Download
+- **English Patch**: [Version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Persona%20-%20Anomalous%20Tower%20Chronicle/English/Steam/Persona-AnomalousTowerChronicle_english_patch.1.0.0.zip)
+
+### Credits
+<details>
+  
+  ```
+  - Kaisaan : project originator
+  - MKCA : game hacking; work on the patcher
+  - Gabriulio : main translator; beta tester; first to beat the game
+  - Hee-Ho : translation fixes
+  - agarpac : graphics editing
+  - Laventory : title logo/banner editing
+  - Ginger : hyped supporter; game mechanics analysis
+  - Lorenzo : tester; bug catcher
+  - Quantum_Dog : tester
+  - Alexandra IDV, Hiro, Mordexai : Steam Deck tester
+  - Vanessa : could not beat the first boss
+  - Apollo, Bread__Guy, Jonker Kujo, Not_a_bear, Toppis : lurker
+  - Lemonov : lurked; asker of dumb questions
+  - SkyRaiderG7 : survey participant
+
+  Special Thanks
+  - JTR : For help in sifting through Chinese esoteric and literary knowledge in pursuit of better translation.
+  - Kaisaan : For starting the project and getting the team together.
+  - Quantum_Dog : For letting us headquarter on his Discord server.
+  ```
+
+  `2024/03/10`
+</details>
+
+---
+
 ## <a href="https://store.steampowered.com/app/1751100/GMODE_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1815030/header.jpg?t=1642640261" alt="DoDonPachi Dai-Ou-Jou DX" width="25%"/></a> 怒首領蜂大往生DX (DoDonPachi Dai-Ou-Jou DX)
 
 <img src="./promo/1751100_1.png" alt="Menu has been translated" width="50%"/><img src="./promo/1751100_2.png" alt="In-game instructions has also been translated" width="50%"/>
