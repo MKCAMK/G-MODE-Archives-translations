@@ -3,9 +3,9 @@ This is a repository of **translation** patches for the series of ports of mobil
 As of now, the patches are only for the **Steam** version of these games.
 
 ### Download and Installation
-A *link* to the *patch* and *Steam store page* is provided for each game.
+Links to the *patch* and to the *Steam store page* is provided for each game.
 
-The **Steam store image** beside a game's title links to the respective Steam store page.
+The **Steam store image** beside each game's title links to the respective Steam store page.
 
 ---
 
