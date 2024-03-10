@@ -1,0 +1,135 @@
+For most of the terminology, our translation bases itself on the official PSP
+localization of Persona. However, there are cases where our translation choices
+differ from Atlus'. The changes made are listed below, so that players may still
+cross-reference the info with pre-existing guides and wikis.
+
+Our criteria for changing stuff is as follows:
+
+- No gratuitous Japanese!
+- Demons/Personas of Chinese origin use Chinese names.
+- Mistranslations/mispellings from the PSP translation were fixed.
+
+Below are the full list of changes, separated into categories. Have fun with the game!
+
+DEMONS
+Pyro Jack -> Jack Lantern
+Mushus -> Mushussu
+Phunbaba -> Humbaba
+Moh Shuvuu -> Muu Shuwuu
+Selket -> Serket
+Purski -> Pulu Kisi
+Girimehkala -> Girimekhala
+Ocelot -> Ocelotl
+Grimies -> Gray Man
+
+WEAPONS
+Fuuma's Wakizashi -> Anti-Demon Wakizashi
+Kusanagi's Sword -> Grass-cutter Sword
+Answeller -> Fragarach
+Nihiru -> Nihil
+Kenunmaru -> Blizzard Claymore
+Konryumaru -> Sunrise Claymore
+Kenkonseki -> Universal Ruler
+Kouma Staff -> Demonic Staff
+Hisou Futakage -> Twin Shadow
+Guten Tag -> Goedendag
+Raiga Axe -> Thunderfang Axe
+Houtoufu -> Winged Axe
+Kabutsuchi Kyouko -> Brain Basher
+Gouma Daisetsudan -> Demon Feller
+Mandau Spoon -> Beheading Spoon
+Gokufu Tennou -> Heavenly Hatchet
+Guren no Muchi -> Scarlet Whip
+Kyubi no Muchi -> Cat o' Nine Tails
+Shisenchu -> Thorny Wedges
+Majou-Sen -> Purification Fan
+Oniguruma -> Kueiche
+Senko Rinda -> Flashing Wheel
+Kokuteki Bow -> Providence Bow
+Kagirohi-maru -> Dawn Bow
+Harald's Bow -> Hadingus' Bow
+Yuuma Ankoku Sho -> Devil's Right Hand
+Shinsa Bakenutsu Sho -> Divine Left Hand
+
+FIREARMS
+Reaper's Colt -> Grim Reaper's Colt
+Scorpion -> Skorpion
+Rien Henhappou -> Flock Hunter
+Gettou Shoutenhou -> Lunar Shooter
+Kokonoe Raijinhou -> Divine Wrath
+Kiraihou -> Thunder Cannon
+Jakou Fuuinhou -> Wicked Cannon
+Koppa-Mijinhou -> Pulverizer Cannon
+Megido Fire -> Megiddo Fire
+Gepard M2 -> Gepárd M2
+Double Death -> Twin Towers
+
+ARMOR
+Kazeyomi Kabuto -> Light Helm
+Egili's Helmet -> Egill's Helmet
+Suzaku Helmet -> Zhuque Helmet
+Spinney Suit -> Big Bird Suit
+Megin Gjord -> Megingjörð
+Genbu Armor -> Xuanwu Armor
+Spiegel Mail -> Spiegel Chainmail
+Hamagari Gauntlet -> Sharp Gauntlet
+Shishiou Gauntlet -> Lion Gauntlet
+Raime Gauntlet -> Thunderclap Gauntlet
+Seiryuu Gauntlet -> Qinglong Gauntlet
+Leather Shoes -> Dress Shoes
+Toe Shoes -> Pointe Shoes
+Vidar's Shoes -> Vidarr's Boots
+Byakko Greaves -> Baihu Greaves
+
+TOTEMS
+Enma Notebook -> Yama's Notebook
+Nibel Crystal -> Niflheim Crystal
+Suitengu Talisman -> Suiten-gu Talisman
+Black Garterbelt -> Black Garter Belt
+Kaminari-Okoshi -> Thunder Cakes
+Dordona's Oar -> Dul Dauna's Oar
+Gottabe Shoes -> Just Do It!
+Present -> Présent
+Amber Glasses -> Turtle Shell Glasses
+Pasque Flower -> Passé
+Tora Stomachband -> Tiger Belly Wrap
+Daily Meal -> Daily Good Deed
+
+SKILLS
+Gokuraku Fall -> Paradise Fall
+Sanraigeki -> Explosion Zap
+Shuuraigeki -> Implosion Zap
+
+PERSONAS
+Ildanach -> Lugh
+Frey -> Freyr
+Hermod -> Hermóðr
+Cu Chulainn -> Cú Chulainn
+Verdandi -> Verðandi
+Tensen Nyannyan -> Bixia Yuanjun
+Urdr -> Urðr
+Maso -> Mazu
+Seioubo -> Xi Wangmu
+Amen Ra -> Amun-Ra
+Airgetlam -> Airgetlám
+Fuhedi Mergane -> Huherdei Mergen
+Shouki -> Zhong Kui
+Aizen Myouou -> Ragaraja
+Pyro Jack -> Jack Lantern
+Seiten Taisei -> Qitian Daisheng
+Hokuto Seikun -> Beidou Xingjun
+Byakko -> Baihu
+Aonbharr -> Enbarr
+Fuutai -> Taifeng
+Cerberus -> Kerberos
+Genbu -> Xuanwu
+Suzaku -> Zhuque
+Vidofnir -> Víðópnir
+Seiryuu -> Qinglong
+Shokuin -> Zhu Yin
+
+ORDERS
+Grave -> Undead
+
+
+2024/03/10
