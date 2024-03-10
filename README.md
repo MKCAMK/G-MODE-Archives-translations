@@ -17,6 +17,9 @@ Patching instructions are provided inside the **patch's archive file**.
 ### Download
 - **English Patch**: [Version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Persona%20-%20Anomalous%20Tower%20Chronicle/English/Steam/Persona-AnomalousTowerChronicle_english_patch.1.0.0.zip)
 
+### Notes
+While this translation uses PSP localization of Persona 1 as a base, there are some deliberate <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**changes**</a> that differ from ATLUS official translation. Players who especially played PSP localization version recommended to cross-reference this to avoid confusion.
+
 ### Credits
 <details>
   
