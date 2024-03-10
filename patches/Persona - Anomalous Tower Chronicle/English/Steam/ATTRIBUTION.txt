@@ -1,0 +1,79 @@
+		Translation Patch Project Credits
+
+agarpac
+	graphics editing
+
+Gabriulio
+	main translator; beta tester; first to beat the game
+
+Kaisaan
+	project originator
+
+Laventory
+	title logo/banner editing
+
+MKCA
+	game hacking; work on the patcher
+
+Alexandra IDV
+	Steam Deck tester
+
+Apollo
+	lurker
+
+Bread__Guy
+	lurker
+
+Ginger
+	hyped supporter; game mechanics analysis
+
+Hee-Ho
+	translation fixes
+
+Hiro
+	Steam Deck tester
+
+Jonker Kujo
+	lurker
+
+Kularian
+	survey participant
+
+Lemonov
+	lurked; asker of dumb questions
+
+Lorenzo
+	tester; bug catcher 
+
+Mordexai
+	Steam Deck tester
+
+Not_a_bear
+	lurker
+
+Quantum_Dog
+	tester
+
+SkyRaiderG7 
+	survey participant
+
+Toppis
+	lurker 
+
+Vanessa
+	could not beat the first boss 
+
+
+		Special Thanks
+
+JTR
+	For help in sifting through Chinese esoteric and literary knowledge in pursuit of better translation.
+
+Kaisaan
+	For starting the project and getting the team together.
+
+Quantum_Dog
+	For letting us headquarter on his Discord server.
+
+
+		2024/03/10
