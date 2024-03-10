@@ -17,11 +17,11 @@ The **Steam store image** beside a game's title links to the respective Steam st
 ### Download
 - **English Patch**: [Version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Persona%20-%20Anomalous%20Tower%20Chronicle/English/Steam/Persona-AnomalousTowerChronicle_english_patch.1.0.0.zip)
 
-### Notes
-While this translation uses PSP localization of Persona 1 as a base, there are some deliberate <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**changes**</a> that differ from ATLUS official translation. Players who especially played PSP localization version recommended to cross-reference this to avoid confusion.
-
 ### Credits
-The people who involved are unique to this translation which you can see it <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here**</a>
+The credits list for this patch is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here.**</a>
+
+### PSP Translation Differences
+While this translation follows the official English localization of *Shin Megami Tensei: Persona* for PlayStation Portable, some deliberate changes have been made. A document listing the differences is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here.**</a>
 
 ---
 
