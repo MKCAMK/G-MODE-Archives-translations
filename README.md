@@ -21,32 +21,7 @@ Patching instructions are provided inside the **patch's archive file**.
 While this translation uses PSP localization of Persona 1 as a base, there are some deliberate <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**changes**</a> that differ from ATLUS official translation. Players who especially played PSP localization version recommended to cross-reference this to avoid confusion.
 
 ### Credits
-<details>
-  
-  ```
-  - Kaisaan : project originator
-  - MKCA : game hacking; work on the patcher
-  - Gabriulio : main translator; beta tester; first to beat the game
-  - Hee-Ho : translation fixes
-  - agarpac : graphics editing
-  - Laventory : title logo/banner editing
-  - Ginger : hyped supporter; game mechanics analysis
-  - Lorenzo : tester; bug catcher
-  - Quantum_Dog : tester
-  - Alexandra IDV, Hiro, Mordexai : Steam Deck tester
-  - Vanessa : could not beat the first boss
-  - Apollo, Bread__Guy, Jonker Kujo, Not_a_bear, Toppis : lurker
-  - Lemonov : lurked; asker of dumb questions
-  - SkyRaiderG7 : survey participant
-
-  Special Thanks
-  - JTR : For help in sifting through Chinese esoteric and literary knowledge in pursuit of better translation.
-  - Kaisaan : For starting the project and getting the team together.
-  - Quantum_Dog : For letting us headquarter on his Discord server.
-  ```
-
-  `2024/03/10`
-</details>
+The people who involved are unique to this translation which you can see it <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here**</a>
 
 ---
 
