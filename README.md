@@ -7,8 +7,6 @@ A *link* to the *patch* and *Steam store page* is provided for each game.
 
 The **Steam store image** beside a game's title links to the respective Steam store page.
 
-Patching instructions are provided inside the **patch's archive file**.
-
 ---
 
 ## <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona - Anomalous Tower Chronicle" width="25%"/></a> 女神異聞録ペルソナ 異空の塔編 (Persona - Anomalous Tower Chronicle)
