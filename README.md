@@ -9,7 +9,7 @@ The **Steam store image** beside a game's title links to the respective Steam st
 
 ---
 
-## <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona - Anomalous Tower Chronicle" width="25%"/></a> 女神異聞録ペルソナ 異空の塔編 (Persona - Anomalous Tower Chronicle)
+## <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona - Anomalous Tower Chronicle" width="25%"/></a> 女神異聞録ペルソナ 異空の塔編 (Persona: Anomalous Tower Chronicle)
 
 <img src="./promo/2541170_1.png" alt="In-game graphics have been translated" width="50%"/><img src="./promo/2541170_2.png" alt="Story dialogues have been translated too" width="50%"/>
 ### Download
@@ -31,7 +31,7 @@ The people who involved are unique to this translation which you can see it <a h
 
 ---
 
-## <a href="https://store.steampowered.com/app/1815030/GMODE/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1751100/header.jpg?t=1637024289" alt="Deadly Danmaku Trial - DoDonPachi Dai-Ou-Jou Edition" width="25%"/></a> 弾幕検定死験-大往生編- (Deadly Danmaku Trial - DoDonPachi Dai-Ou-Jou Edition)
+## <a href="https://store.steampowered.com/app/1815030/GMODE/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1751100/header.jpg?t=1637024289" alt="Deadly Danmaku Trial - DoDonPachi Dai-Ou-Jou Edition" width="25%"/></a> 弾幕検定死験-大往生編- (Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition)
 
 <img src="./promo/1815030_1.png" alt="Menu has been translated" width="50%"/><img src="./promo/1815030_2.png" alt="Translated all of possible text images including this" width="50%"/>
 ### Download
