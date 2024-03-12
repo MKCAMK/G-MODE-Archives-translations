@@ -85,7 +85,6 @@ TOTEMS
 Enma Notebook -> Yama's Notebook
 Nibel Crystal -> Niflheim Crystal
 Suitengu Talisman -> Suiten-gu Talisman
-Black Garterbelt -> Black Garter Belt
 Kaminari-Okoshi -> Thunder Cakes
 Dordona's Oar -> Dul Dauna's Oar
 Gottabe Shoes -> Just Do It!
@@ -132,4 +131,4 @@ ORDERS
 Grave -> Undead
 
 
-2024/03/10
+2024/03/12
