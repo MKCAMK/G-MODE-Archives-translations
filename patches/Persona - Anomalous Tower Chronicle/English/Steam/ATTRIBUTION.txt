@@ -40,7 +40,7 @@ Kularian
 	survey participant
 
 Lemonov
-	lurked; asker of dumb questions
+	lurker; asker of dumb questions
 
 Lorenzo
 	tester; bug catcher 
@@ -76,4 +76,4 @@ Quantum_Dog
 	For letting us headquarter on his Discord server.
 
 
-		2024/03/10
+		2024/03/14
