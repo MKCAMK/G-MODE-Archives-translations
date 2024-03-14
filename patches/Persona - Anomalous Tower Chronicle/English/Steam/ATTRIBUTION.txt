@@ -43,7 +43,7 @@ Lemonov
 	lurker; asker of dumb questions
 
 Lorenzo
-	tester; bug catcher 
+	tester; bug catcher
 
 Mordexai
 	Steam Deck tester
@@ -61,7 +61,7 @@ Toppis
 	lurker 
 
 Vanessa
-	could not beat the first boss 
+	could not beat the first boss
 
 
 		Special Thanks
