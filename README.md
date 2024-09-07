@@ -1,17 +1,26 @@
 # <a href="https://gmodecorp.com/gmodearchives/"><img src="https://gmodecorp.com/static/gmodearchives/img/logo_GMODEArchives2.png" alt="G-MODE Archives(+)" width="25%"></a> Translations
 This is a repository of **translation** patches for the series of ports of mobile games that have been released on **Steam** and **Nintendo Switch** by <a href="https://en.wikipedia.org/wiki/G-Mode/"><img src="https://gmodecorp.com/static/common/img/corporate/h1.png" alt="G-MODE" width="10%"></a>.
-As of now, the patches are only for the **Steam** version of these games.
+As of now, the patches are only for the [**Steam**](https://store.steampowered.com/developer/G-MODE) version of these games.
 
 ### Download and Installation
 Links to the *patch* and to the *Steam Store page* are provided for each game.
 
-The **Steam store image** beside each game's title links to the respective Steam store page.
+The **original japanese title name** beside each game's title links to its respective Steam store page.
+
+### List of Translated Games
+for quick navigation, here is the list for all of translated games in this repository:
+
+Click the title to direct yourself into its info and download of respective game. **Steam store image** of the game links to its respective Steam store page too.
+| Original | Translated |
+| :---: | :--- |
+| <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona: Anomalous Tower Chronicle" width="50%"/></a> | [Persona: Anomalous Tower Chronicle](#-persona-anomalous-tower-chronicle) |
+| <a href="https://store.steampowered.com/app/1751100/GMODE_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1815030/header.jpg?t=1642640261" alt="DoDonPachi Dai-Ou-Jou DX" width="50%"/></a> | [DoDonPachi Dai-Ou-Jou DX](#-dodonpachi-dai-ou-jou-dx) |
+| <a href="https://store.steampowered.com/app/1815030/GMODE/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1751100/header.jpg?t=1637024289" alt="Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition" width="50%"/></a> | [Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition](#-deadly-danmaku-trial-dodonpachi-dai-ou-jou-edition) |
+| <a href="https://store.steampowered.com/app/1695510/GMODE19_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1695510/header.jpg?t=1629766817" alt="Magical Drop DX" width="50%"/></a> | [Magical Drop DX](#-magical-drop-dx) |
 
 ---
 
-## <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona: Anomalous Tower Chronicle" width="25%"/></a> Persona: Anomalous Tower Chronicle
-
-### (女神異聞録ペルソナ 異空の塔編)
+## Persona: Anomalous Tower Chronicle | [女神異聞録ペルソナ 異空の塔編](https://store.steampowered.com/app/2541170/GMODE/)
 
 <img src="./promo/2541170_1.png" alt="In-game graphics have been translated" width="50%"/><img src="./promo/2541170_2.png" alt="Story dialogues have been translated too" width="50%"/>
 ### Download
@@ -25,9 +34,7 @@ While this translation follows the official English localization of *Shin Megami
 
 ---
 
-## <a href="https://store.steampowered.com/app/1751100/GMODE_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1815030/header.jpg?t=1642640261" alt="DoDonPachi Dai-Ou-Jou DX" width="25%"/></a> DoDonPachi Dai-Ou-Jou DX
-
-### (怒首領蜂大往生DX)
+## DoDonPachi Dai-Ou-Jou DX | [怒首領蜂大往生DX](https://store.steampowered.com/app/1751100/GMODE_DX/)
 
 <img src="./promo/1751100_1.png" alt="Menu has been translated" width="50%"/><img src="./promo/1751100_2.png" alt="In-game instructions has also been translated" width="50%"/>
 ### Download
@@ -35,9 +42,7 @@ While this translation follows the official English localization of *Shin Megami
 
 ---
 
-## <a href="https://store.steampowered.com/app/1815030/GMODE/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1751100/header.jpg?t=1637024289" alt="Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition" width="25%"/></a> Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition
-
-### (弾幕検定死験-大往生編-)
+## Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition | [弾幕検定死験-大往生編-](https://store.steampowered.com/app/1815030/GMODE/)
 
 <img src="./promo/1815030_1.png" alt="Menu has been translated" width="50%"/><img src="./promo/1815030_2.png" alt="Translated all of possible text images including this" width="50%"/>
 ### Download
@@ -45,9 +50,7 @@ While this translation follows the official English localization of *Shin Megami
 
 ---
 
-## <a href="https://store.steampowered.com/app/1695510/GMODE19_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1695510/header.jpg?t=1629766817" alt="Magical Drop DX" width="25%"/></a> Magical Drop DX
-
-### (マジカルドロップDX)
+## Magical Drop DX | [マジカルドロップDX](https://store.steampowered.com/app/1695510/GMODE19_DX/)
 
 <img src="./promo/1695510_1.jpg" alt="In-game graphics have been translated" width="50%"/><img src="./promo/1695510_2.jpg" alt="Story dialogues have been translated too" width="50%"/>
 ### Download
