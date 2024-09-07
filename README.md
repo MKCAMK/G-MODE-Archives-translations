@@ -13,10 +13,10 @@ for quick navigation, here is the list for all of translated games in this repos
 Click the title to direct yourself into its info and download of respective game. **Steam store image** of the game links to its respective Steam store page too.
 | Original | Translated |
 | :---: | :--- |
-| <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona: Anomalous Tower Chronicle" width="50%"/></a> | [Persona: Anomalous Tower Chronicle](#persona-anomalous-tower-chronicle) |
-| <a href="https://store.steampowered.com/app/1751100/GMODE_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1815030/header.jpg?t=1642640261" alt="DoDonPachi Dai-Ou-Jou DX" width="50%"/></a> | [DoDonPachi Dai-Ou-Jou DX](#dodonpachi-dai-ou-jou-dx) |
-| <a href="https://store.steampowered.com/app/1815030/GMODE/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1751100/header.jpg?t=1637024289" alt="Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition" width="50%"/></a> | [Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition](#deadly-danmaku-trial-dodonpachi-dai-ou-jou-edition) |
-| <a href="https://store.steampowered.com/app/1695510/GMODE19_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1695510/header.jpg?t=1629766817" alt="Magical Drop DX" width="50%"/></a> | [Magical Drop DX](#magical-drop-dx) |
+| <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona: Anomalous Tower Chronicle" width="50%"/></a> | [Persona: Anomalous Tower Chronicle](#persona-anomalous-tower-chronicle--%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%B2%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A-%E7%95%B0%E7%A9%BA%E3%81%AE%E5%A1%94%E7%B7%A8) |
+| <a href="https://store.steampowered.com/app/1751100/GMODE_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1815030/header.jpg?t=1642640261" alt="DoDonPachi Dai-Ou-Jou DX" width="50%"/></a> | [DoDonPachi Dai-Ou-Jou DX](#dodonpachi-dai-ou-jou-dx--怒首領蜂大往生dx) |
+| <a href="https://store.steampowered.com/app/1815030/GMODE/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1751100/header.jpg?t=1637024289" alt="Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition" width="50%"/></a> | [Deadly Danmaku Trial: DoDonPachi Dai-Ou-Jou Edition](#deadly-danmaku-trial-dodonpachi-dai-ou-jou-edition--弾幕検定死験-大往生編-) |
+| <a href="https://store.steampowered.com/app/1695510/GMODE19_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1695510/header.jpg?t=1629766817" alt="Magical Drop DX" width="50%"/></a> | [Magical Drop DX](#magical-drop-dx--マジカルドロップdx) |
 
 ---
 
