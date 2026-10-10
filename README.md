@@ -24,7 +24,7 @@ The images on the left link to the Steam page for each game; the links on the ri
 - **Patch**: [version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Persona%20-%20Anomalous%20Tower%20Chronicle/English/Steam/Persona-AnomalousTowerChronicle_english_patch.1.0.0.zip)
 
 #### Credits
-The credits list for this patch is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here.**</a>
+The credit list for this patch is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here.**</a>
 
 #### PSP Translation Differences
 While this translation follows the official English localization of *Shin Megami Tensei: Persona* for PlayStation Portable, some deliberate changes have been made. A document listing the differences is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/PSP_translation_differences.txt">**here.**</a>
