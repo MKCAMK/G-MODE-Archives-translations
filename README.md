@@ -38,7 +38,7 @@ While this translation follows the official English localization of *Shin Megami
 
 <img src="./promo/2850150_1.png" alt="In-game graphics have been translated" width="50%"/><img src="./promo/2850150_2.png" alt="Story dialogues have been translated too" width="50%"/>
 #### Download
-- **Patch**: [version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/refs/heads/Aigis/patches/Persona%203%20-%20Aigis%20THE%20FIRST%20MISSION/English/Steam/comingsoon.zip)
+- **Patch**: [version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/refs/heads/Aigis/patches/Persona%203%20-%20Aigis%20THE%20FIRST%20MISSION/English/Steam/Persona3-AigisTHEFIRSTMISSION_english_patch.1.0.1.zip)
 
 #### Credits
 The credit list for this patch is available <a href="patches/Persona 3 - Aigis THE FIRST MISSION/English/Steam/ATTRIBUTION.txt">**here.**</a>
