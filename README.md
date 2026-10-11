@@ -7,6 +7,7 @@ The images on the left link to the Steam page for each game; the links on the ri
 | Steam pages | Patches |
 | :---: | :---: |
 | <a href="https://store.steampowered.com/app/2541170/GMODE/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2541170/header.jpg?t=1695947571" alt="Persona: Anomalous Tower Chronicle" width="50%"/></a> | [Persona: Anomalous Tower Chronicle](#persona-anomalous-tower-chronicle--%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%B2%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A-%E7%95%B0%E7%A9%BA%E3%81%AE%E5%A1%94%E7%B7%A8) |
+| <a href="https://store.steampowered.com/app/2850150/GMODE_3__THE_FIRST_MISSION/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2850150/header.jpg?t=1735293997" alt="Persona 3 - Aigis THE FIRST MISSION" width="50%"/></a> | [Persona 3 - Aigis THE FIRST MISSION](#persona-3---aigis-the-first-mission--%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A3-%E3%82%A2%E3%82%A4%E3%82%AE%E3%82%B9-the-first-mission) |
 | <a href="https://store.steampowered.com/app/3633410/GMODE_ARMORED_CORE_MOBILE_MISSION/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3633410/27b3483887846f289aaa1bc742cb2d55a4ccccf5/header.jpg?t=1745974804" alt="Armored Core: Mobile Mission" width="50%"/></a> | [Armored Core: Mobile Mission](#armored-core-mobile-mission) |
 | <a href="https://store.steampowered.com/app/3713380/GMODE_ARMORED_CORE_MOBILE_2/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3713380/6dc609629ca4c563a87a89926f5fe7c48821ae45/header.jpg?t=1750258909" alt="Armored Core: Mobile Mission" width="50%"/></a> | [Armored Core: Mobile 2](#armored-core-mobile-2) |
 | <a href="https://store.steampowered.com/app/1751100/GMODE_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1815030/header.jpg?t=1642640261" alt="DoDonPachi Dai-Ou-Jou DX" width="50%"/></a> | [DoDonPachi Dai-Ou-Jou DX](#dodonpachi-dai-ou-jou-dx--怒首領蜂大往生dx) |
@@ -28,6 +29,19 @@ The credit list for this patch is available <a href="patches/Persona - Anomalous
 
 #### PSP Translation Differences
 While this translation follows the official English localization of *Shin Megami Tensei: Persona* for PlayStation Portable, some deliberate changes have been made. A document listing the differences is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/PSP_translation_differences.txt">**here.**</a>
+
+---
+
+## Persona 3 - Aigis THE FIRST MISSION | [ペルソナ3 アイギス THE FIRST MISSION](https://store.steampowered.com/app/2850150/GMODE_3__THE_FIRST_MISSION/)
+
+### English patch by Gabriulio
+
+<img src="./promo/2850150_1.png" alt="In-game graphics have been translated" width="50%"/><img src="./promo/2850150_2.png" alt="Story dialogues have been translated too" width="50%"/>
+#### Download
+- **Patch**: [version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/refs/heads/Aigis/patches/Persona%203%20-%20Aigis%20THE%20FIRST%20MISSION/English/Steam/comingsoon.zip)
+
+#### Credits
+The credit list for this patch is available <a href="patches/Persona 3 - Aigis THE FIRST MISSION/English/Steam/comingsoon.txt">**here.**</a>
 
 ---
 
