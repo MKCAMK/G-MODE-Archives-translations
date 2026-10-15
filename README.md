@@ -22,7 +22,7 @@ The images on the left link to the Steam page for each game; the links on the ri
 
 <img src="./promo/2541170_1.png" alt="In-game graphics have been translated" width="50%"/><img src="./promo/2541170_2.png" alt="Story dialogues have been translated too" width="50%"/>
 #### Download
-- **Patch**: [version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Persona%20-%20Anomalous%20Tower%20Chronicle/English/Steam/Persona-AnomalousTowerChronicle_english_patch.1.0.0.zip)
+- **Patch**: [version 1.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Persona%20-%20Anomalous%20Tower%20Chronicle/English/Steam/Persona-AnomalousTowerChronicle_english_patch.1.0.0.zip)
 
 #### Credits
 The credit list for this patch is available <a href="patches/Persona - Anomalous Tower Chronicle/English/Steam/ATTRIBUTION.txt">**here.**</a>
@@ -38,7 +38,7 @@ While this translation follows the official English localization of *Shin Megami
 
 <img src="./promo/2850150_1.png" alt="In-game graphics have been translated" width="50%"/><img src="./promo/2850150_2.png" alt="Story dialogues have been translated too" width="50%"/>
 #### Download
-- **Patch**: [version 1.0.1](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/refs/heads/main/patches/Persona%203%20-%20Aigis%20THE%20FIRST%20MISSION/English/Steam/Persona3-AigisTHEFIRSTMISSION_english_patch.1.0.1.zip)
+- **Patch**: [version 1.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/refs/heads/main/patches/Persona%203%20-%20Aigis%20THE%20FIRST%20MISSION/English/Steam/Persona3-AigisTHEFIRSTMISSION_english_patch.1.0.1.zip)
 
 #### Credits
 The credit list for this patch is available <a href="patches/Persona 3 - Aigis THE FIRST MISSION/English/Steam/ATTRIBUTION.txt">**here.**</a>
@@ -71,7 +71,7 @@ The credit list for this patch is available <a href="patches/Persona 3 - Aigis T
 
 <img src="./promo/1751100_1.png" alt="Menu has been translated" width="50%"/><img src="./promo/1751100_2.png" alt="In-game instructions has also been translated" width="50%"/>
 #### Download
-- **Patch**: [version 1.3.1](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/DoDonPachi%20Dai-Ou-Jou%20DX/English/Steam/DoDonPachiDaiOuJouDX_english_patch.1.3.1.zip)
+- **Patch**: [version 1.3](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/DoDonPachi%20Dai-Ou-Jou%20DX/English/Steam/DoDonPachiDaiOuJouDX_english_patch.1.3.1.zip)
 
 ---
 
@@ -81,7 +81,7 @@ The credit list for this patch is available <a href="patches/Persona 3 - Aigis T
 
 <img src="./promo/1815030_1.png" alt="Menu has been translated" width="50%"/><img src="./promo/1815030_2.png" alt="Translated all of possible text images including this" width="50%"/>
 #### Download
-- **Patch**: [version 1.0.1](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Deadly%20Danmaku%20Trial%20-%20DoDonPachi%20Dai-Ou-Jou%20Edition/English/Steam/DDT_DoDonPachiDaiOuJou_english_patch.1.0.1.zip)
+- **Patch**: [version 1.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Deadly%20Danmaku%20Trial%20-%20DoDonPachi%20Dai-Ou-Jou%20Edition/English/Steam/DDT_DoDonPachiDaiOuJou_english_patch.1.0.1.zip)
 
 ---
 
@@ -91,7 +91,7 @@ The credit list for this patch is available <a href="patches/Persona 3 - Aigis T
 
 <img src="./promo/1695510_1.jpg" alt="In-game graphics have been translated" width="50%"/><img src="./promo/1695510_2.jpg" alt="Story dialogues have been translated too" width="50%"/>
 #### Download
-- **Patch**: [version 1.0.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Magical%20Drop%20DX/English/Steam/MagicalDropDX_english_patch.1.0.0.zip)
+- **Patch**: [version 1.0](https://github.com/MKCAMK/G-MODE-Archives-translations/raw/main/patches/Magical%20Drop%20DX/English/Steam/MagicalDropDX_english_patch.1.0.0.zip)
 
 ---
 
